@@ -1,2 +1,6 @@
 # tiktok-view-bot
-i dont know if this works but ok
+It kinda works
+
+## YOU NEES TO PUT HTTP PROXIES IN proxy.txt
+
+usage: install python 3.7+, then do "pip install requests", and launch the file ("py main.py")
