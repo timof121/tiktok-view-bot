@@ -1,3 +1,8 @@
+dont be a tiktok skid
+
+
+
+
 # tiktok-view-bot
 It kinda works
 
